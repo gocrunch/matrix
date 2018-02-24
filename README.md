@@ -2,4 +2,9 @@
 
 # Matrix library for go
 
-This package provides a matrix library for Go. Currenly, `float64` and `float32` are the only supported types, but we will add support for `int64`, and perhaps `interface{}` down the line
+This package provides a matrix library for Go.
+
+Currenly, `float64` and `float32` are the only supported types, but we will add support for `int64`,
+and perhaps `interface{}` down the line
+
+

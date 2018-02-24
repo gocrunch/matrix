@@ -817,7 +817,7 @@ func TestDotf64(t *testing.T) {
 		assert.Equal(t, 18.0, v[i])
 	}
 	x := Newf64(13)
-	y := If64(13)
+	y := Eyef64(13)
 	x1 := x.Dot(y)
 	assert.True(t, x1.Equals(x), "A times I should equal A")
 }

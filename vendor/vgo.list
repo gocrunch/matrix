@@ -1,0 +1,9 @@
+MODULE                         VERSION
+github.com/gocrunch/matrix     -
+github.com/chewxy/math32       v1.0.0
+github.com/davecgh/go-spew     v1.1.0
+github.com/gorgonia/vecf32     v0.7.0
+github.com/gorgonia/vecf64     v0.7.0
+github.com/pmezard/go-difflib  v1.0.0
+github.com/stretchr/objx       v0.0.0-20140526180921-cbeaeb16a013
+github.com/stretchr/testify    v1.1.4
